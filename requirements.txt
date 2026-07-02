@@ -2,3 +2,5 @@ nltk
 ipykernel
 numpy
 svgling
+pandas
+scikit-learn
