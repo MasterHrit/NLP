@@ -221,3 +221,4 @@ __marimo__/
 # VS Code
 .vscode
 word2vec.pkl
+points.txt
